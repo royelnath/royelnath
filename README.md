@@ -13,7 +13,7 @@
 - 💼 I’ve pursuing my Bachelor's degree in Computer Science and Engineering at [Dhemaji Engineering college](https://dec.ac.in/);
 - 🤔 My interests are with Web App Development
 - 💬 Ask me about anything, and I am happy to help;
-- 📫 Please email via royelnath123@gmail.com or ping me on [LinkedIn](www.linkedin.com/in/royel-nath-9332072b1) to reach me;
+- 📫 Please email via royelnath123@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/royel-nath-9332072b1/) to reach me;
 <br/> 
 </em>
 
