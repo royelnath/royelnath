@@ -7,16 +7,11 @@
  </p>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-<em> Want to know more about me? [Click here](https://royelnath.dev/) </em>
 <em>
   
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m a Lead Engineer at [Presidio](https://www.presidio.com/);
-- 💼 I’ve completed my Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
-- 🤔 My interests are with Web App Development 🖥️, AI 🤖, Cricket 🏏, Space 🚀, etc..;
-- 🎬 I love watching movies, and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
+- 💼 I’ve pursuing my Bachelor's degree in Computer Science and Engineering at [Dhemaji Engineering college](https://dec.ac.in/);
+- 🤔 My interests are with Web App Development
 - 💬 Ask me about anything, and I am happy to help;
 - 📫 Please email via kishanlal0725@gmail.com or ping me on [LinkedIn](www.linkedin.com/in/royel-nath-9332072b1) to reach me;
 <br/> 
