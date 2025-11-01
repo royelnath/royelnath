@@ -33,7 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royelnath&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
-
-### Contact Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-royelnath-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/royel-nath-9332072b1)](www.linkedin.com/in/royel-nath-9332072b1)[![Instagram Badge](https://img.shields.io/badge/-@royelnath1025-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://[https://www.instagram.com/royel_nath_10?igsh=dmd0NG10MTBveHdy](https://www.instagram.com/royel_nath_10?igsh=dmd0NG10MTBveHdy))](https://www.instagram.com/kishan_07_25) [![GitHub Badge](https://img.shields.io/badge/-@royelnath-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/royelnath) [![Gmail Badge](https://img.shields.io/badge/-@royelnath123-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:royelnath123@gmail.com)](mailto:royelnath123@gmail.com) 
