@@ -16,3 +16,12 @@
 - 📫 Please email via royelnath123@gmail.com or ping me on [LinkedIn](www.linkedin.com/in/royel-nath-9332072b1) to reach me;
 <br/> 
 </em>
+
+
+### Top Languages
+
+<p align="center">
+<a href = "https://github.com/royelnath">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royelnath&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
